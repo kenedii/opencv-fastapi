@@ -11,6 +11,7 @@ FastAPI endpoints for running these CV algorithms on a photo:
 - ransac_outlier_detection
 - dlib_facial_analysis
 
+To test the endpoints with the FastAPI Swagger UI Frontend go to http://localhost:port/docs
 
 Dependencies:
 - Python (3.11.5 used)
